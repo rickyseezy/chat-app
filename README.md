@@ -8,7 +8,7 @@ This a simple approach of implementing live chat in flutter apps using [flutter_
 ## Introduction
 What's in the box ? A minimal WebSocket server written in go. Inside this server we'll only handle one type of event which is `message`.
 We will have a socket connexion open once our widget is called then we'll close it once we done with it.
-##### Warning ⚠️
+#### Warning ⚠️
 
 For some reasons it doesn't work on Android emulator
 ## Getting Started
