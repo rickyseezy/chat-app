@@ -38,10 +38,8 @@ The server will run on port `:8000`
 - [kiwi](https://pub.dev/packages/kiwi) 
 - [socket_io_client](https://pub.dev/packages/socket_io_client) 
 
-## Add me on LinkedIn
+## Stay in touch with me 😊
 
-Stay in touch with me 😊
-<br/>
 e-mail: [binisoma@gmail.com](mailto:binisoma@gmail.com)
 <br/>
 LinkedIn: [Soma Bini](https://www.linkedin.com/in/soma-bini/)
